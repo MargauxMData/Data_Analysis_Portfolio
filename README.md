@@ -36,4 +36,4 @@ This project was created for learning purposes and fun. Some data points were si
 - Business-focused data storytelling
 - API usage in Python to retrieve daily metal prices
 
-You can find the project here()
+You can find the project [here](https://github.com/MargauxMData/Data_Analysis_Portfolio/tree/main/Jewelry%20Business%20Follow-up%20Dashboard)
