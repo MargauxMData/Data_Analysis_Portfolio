@@ -41,10 +41,28 @@ Python (planned): For future automation of metal price retrieval through an API.
 3. KPI Definition & Dashboard Development 
 
 4. Created 6 tabs:
-  Turnover Analysis, Products Overview, Suppliers Overview, Customers Overview, Stock Management, Metal Price Monitoring
-  Designed dynamic filters across all pages.
 
-5. Custom Calculations :
+Turnover Analysis
+![Capture d'écran 2025-04-26 000324](https://github.com/user-attachments/assets/1edf990f-1aff-4005-a528-d67e03e7c6b3)
+
+Products Overview
+![Capture d'écran 2025-04-26 000340](https://github.com/user-attachments/assets/f6763b3e-b613-467d-99e1-41a598d87920)
+
+Suppliers Overview
+![Capture d'écran 2025-04-26 000448](https://github.com/user-attachments/assets/9a9d8554-b078-4036-9876-a8d8dfbf5972)
+
+Customers Overview
+![Capture d'écran 2025-04-26 000507](https://github.com/user-attachments/assets/623c18b9-492c-4ec8-af9f-0917c734fb37)
+
+Stock Management
+![Capture d'écran 2025-04-26 000554](https://github.com/user-attachments/assets/2a64f0e6-e26c-4066-b7c0-f2e31f78ed47)
+
+Metal Price Monitoring
+![Capture d'écran 2025-04-26 000609](https://github.com/user-attachments/assets/c317bc83-c656-435d-9ef5-ac5d098a6be3)
+
+Designed dynamic filters across all pages.
+
+6. Custom Calculations :
 - Year-to-Year (YoY) Turnover growth (%).
 - Conditional formatting (green/red) for annual growth indicators.
 - Average basket value calculations per customer age and gender.
