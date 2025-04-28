@@ -11,6 +11,10 @@ This portfolio showcases my personal projects, which I’ve built as part of my 
 
 ## Jewelry Business Follow-up Dashboard
 
+Preview 
+![Capture d'écran 2025-04-26 000340](https://github.com/user-attachments/assets/c7513a74-fc90-40b3-8dbf-673431925c3d)
+
+
 ### Aim : 
 
 The goal of this project is to simulate a small business and identify key performance indicators (KPIs) that are essential for tracking its health and progress. With simple visualizations and clearly organized tabs, the dashboard enables business owners to easily monitor and understand key aspects of their operations.
